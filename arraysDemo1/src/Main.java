@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-	    String[] students = new String[4];
+	    String[] students = new String[5];
 
 	    students[0] = "Gürkan";
 	    students[1] = "Engin";
@@ -12,5 +12,11 @@ public class Main {
 	    for (int i=0;i< students.length;i++){
             System.out.println(students[i]);
         }
+
+		System.out.println("----------------------");
+
+	    for (String student:students){
+			System.out.println(student);
+		}
     }
 }
