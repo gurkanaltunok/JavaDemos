@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5a488c1-3ef5-4888-8de8-e94b0ff8b570" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classes/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classes/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classes/classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classes/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classesWithAttributes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classesWithAttributes/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classesWithAttributes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classesWithAttributes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classesWithAttributes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classesWithAttributes/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classesWithAttributes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classesWithAttributes/classesWithAttributes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classesWithAttributes/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classesWithAttributes/src/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodOverloading/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodOverloading/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodOverloading/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodOverloading/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodOverloading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodOverloading/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodOverloading/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodOverloading/methodOverloading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodOverloading/src/DortIslem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods/methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods2/methods2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reCapDemo_Classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reCapDemo_Classes/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reCapDemo_Classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reCapDemo_Classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reCapDemo_Classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reCapDemo_Classes/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reCapDemo_Classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reCapDemo_Classes/reCapDemo_Classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reCapDemo_Classes/src/DortIslem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sayiBulma/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sayiBulma/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sayiBulma/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sayiBulma/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sayiBulma/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sayiBulma/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sayiBulma/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sayiBulma/sayiBulma.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1vgYEE51nLHraDaNiwwHtajEbPi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="inheritance" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5a488c1-3ef5-4888-8de8-e94b0ff8b570" name="Default Changelist" comment="" />
+      <created>1626985087414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626985087414</updated>
+      <workItem from="1626985089393" duration="1048000" />
+      <workItem from="1627039827789" duration="559000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

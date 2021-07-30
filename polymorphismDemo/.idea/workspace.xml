@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c81ea6a8-485f-4a1d-bda8-bf32a36296f0" name="Default Changelist" comment="30.07.2021 Ders Sonu">
+      <change afterPath="$PROJECT_DIR$/../classes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classesWithAttributes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodOverloading/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reCapDemo_Classes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sayiBulma/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/src/CustomerManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/classesWithAttributes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/src/ProductManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/src/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/src/CustomerManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/src/EmployeeManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/src/PersonManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceDemo/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritanceDemo/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceDemo/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritanceDemo/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceDemo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritanceDemo/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritanceDemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceDemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritanceDemo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceDemo/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritanceDemo/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceDemo/inheritanceDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceDemo/src/AskerKrediManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceDemo/src/BaseKrediManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceDemo/src/KrediUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceDemo/src/OgretmenKrediManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceDemo/src/TarimKrediManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methodOverloading/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methodOverloading/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methodOverloading/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methodOverloading/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methodOverloading/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methodOverloading/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methodOverloading/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methodOverloading/methodOverloading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methodOverloading/src/DortIslem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/methods2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphismDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reCapDemo_Classes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reCapDemo_Classes/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reCapDemo_Classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reCapDemo_Classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reCapDemo_Classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reCapDemo_Classes/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reCapDemo_Classes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reCapDemo_Classes/reCapDemo_Classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reCapDemo_Classes/src/DortIslem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sayiBulma/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sayiBulma/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sayiBulma/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sayiBulma/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sayiBulma/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sayiBulma/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sayiBulma/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sayiBulma/sayiBulma.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1vouyuAHTNnZ301Gdl5VThxKKuF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="polymorphismDemo" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c81ea6a8-485f-4a1d-bda8-bf32a36296f0" name="Default Changelist" comment="" />
+      <created>1627241026431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627241026431</updated>
+      <workItem from="1627241029073" duration="1166000" />
+      <workItem from="1627388646030" duration="600000" />
+      <workItem from="1627665018585" duration="324000" />
+      <workItem from="1627665408422" duration="84000" />
+    </task>
+    <task id="LOCAL-00001" summary="30.07.2021 Ders Sonu">
+      <created>1627665227415</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627665227415</updated>
+    </task>
+    <task id="LOCAL-00002" summary="30.07.2021 Ders Sonu">
+      <created>1627665279635</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627665279635</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="30.07.2021 Ders Sonu" />
+    <option name="LAST_COMMIT_MESSAGE" value="30.07.2021 Ders Sonu" />
+  </component>
+</project>
